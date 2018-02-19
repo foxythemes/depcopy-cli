@@ -13,7 +13,7 @@ Create a JSON file named `dep-copy.json` in the root, this file will saved alls 
 
 ## Usage
 
-Add the dependencies that you want to copy specifying the origin path and the destination path
+Add the dependencies that you want to copy specifying the destination path.
 
 Example:
 
