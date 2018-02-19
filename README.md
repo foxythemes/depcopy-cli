@@ -1,10 +1,10 @@
-# dep-copy-cli
+# depcopy-cli
 
 This is a command line client Dependencies Copy, useful when you need copy dependencies to a specific directory.
 
 ## Getting Started
 
-*  Install with npm: `npm install @foxythemes/dep-copy-cli`
+*  Install with npm: `npm install @foxythemes/dep-copy-cli -D`
 *  Run it with `depcopy`
 
 ### Initial Setup
@@ -28,9 +28,9 @@ Add the dependencies that you want to copy specifying the origin path and the de
     "files": {
       "name-depencie-dest/scss" : "name-dependencie-orig/scss/*",
       "name-depencie-dest/dist" : "name-dependencie-orig/dist/*"
+      }
     }
   }
- }
  
 
  In npm scripts:
