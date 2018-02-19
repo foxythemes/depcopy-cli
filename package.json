@@ -1,6 +1,6 @@
 {
   "name": "@foxythemes/depcopy-cli",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Copy front-end dependencies from node_modules to custom paths",
   "main": "lib/dep-copy-cli.js",
   "directories": {
