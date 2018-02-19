@@ -15,29 +15,27 @@ Create a JSON file named `dep-copy.json` in the root, this file will saved alls 
 
 Add the dependencies that you want to copy specifying the origin path and the destination path
 
-```
-  
- Example:
-	
- {
-  "options": {
-    "srcPrefix": "node_modules/",
-    "destPrefix": "src/assets/lib/"
+Example:
+
+```	
+  {
+    "options": {
+      "destPrefix": "src/assets/lib/"
   },
-  "name-dependecie":{
+  "name-dependencie":{
     "files": {
-      "name-depencie-dest/scss" : "name-dependencie-orig/scss/*",
-      "name-depencie-dest/dist" : "name-dependencie-orig/dist/*"
+      "name-dependencie-dest/scss" : "name-dependencie-orig/scss/*",
+      "name-dependencie-dest/dist" : "name-dependencie-orig/dist/*"
       }
     }
-  }
- 
-
- In npm scripts:
-
-  	depcopy
+  }  
 
 ```
+
+In npm scripts:
+
+  depcopy
+
 
 ## License
 

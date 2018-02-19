@@ -1,5 +1,5 @@
 {
-  "name": "@foxythemes/dep-copy-cli",
+  "name": "@foxythemes/depcopy-cli",
   "version": "1.0.0",
   "description": "Dependencies copy cli",
   "main": "lib/dep-copy-cli.js",
