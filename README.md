@@ -17,8 +17,9 @@ Add the dependencies that you want to copy specifying the origin path and the de
 
 ```
   
-  Example:
+ Example:
 	
+ {
   "options": {
     "srcPrefix": "node_modules/",
     "destPrefix": "src/assets/lib/"
@@ -29,8 +30,10 @@ Add the dependencies that you want to copy specifying the origin path and the de
       "name-depencie-dest/dist" : "name-dependencie-orig/dist/*"
     }
   }
+ }
+ 
 
-  In npm scripts:
+ In npm scripts:
 
   	depcopy
 
@@ -38,5 +41,5 @@ Add the dependencies that you want to copy specifying the origin path and the de
 
 ## License
 
-Copyright (c) Foxythemes
+Copyright (c) FoxyThemes
 Licensed under the MIT license.
