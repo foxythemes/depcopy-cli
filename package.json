@@ -1,0 +1,29 @@
+{
+  "name": "@foxythemes/dep-copy-cli",
+  "version": "1.0.0",
+  "description": "Dependencies copy cli",
+  "main": "lib/dep-copy-cli.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "bin": {
+    "depcopy": "./lib/dep-copy-cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foxythemes/dep-copy-cli.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/foxythemes/dep-copy-cli/issues"
+  },
+  "homepage": "https://github.com/foxythemes/dep-copy-cli#readme",
+  "dependencies": {
+    "shelljs": "^0.8.1",
+    "jsonfile": "^4.0.0"
+  }
+}
