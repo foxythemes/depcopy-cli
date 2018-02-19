@@ -4,7 +4,7 @@ This is a command line client Dependencies Copy, useful when you need copy depen
 
 ## Getting Started
 
-*  Install with npm: `npm install @foxythemes/dep-copy-cli -D`
+*  Install with npm: `npm install @foxythemes/depcopy-cli -D`
 *  Run it with `depcopy`
 
 ### Initial Setup
