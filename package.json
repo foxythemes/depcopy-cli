@@ -16,7 +16,7 @@
     "type": "git",
     "url": "git+https://github.com/foxythemes/depcopy-cli.git"
   },
-  "author": "",
+  "author": "Jhon Pérez",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/foxythemes/depcopy-cli/issues"
