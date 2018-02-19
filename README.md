@@ -19,7 +19,7 @@ Add the dependencies that you want to copy specifying the origin path and the de
   
   Example:
 	
-	"options": {
+  "options": {
     "srcPrefix": "node_modules/",
     "destPrefix": "src/assets/lib/"
   },
