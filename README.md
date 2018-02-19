@@ -22,10 +22,10 @@ Example:
   "options": {
     "destPrefix": "src/assets/lib/"
   },
-  "name-dependency":{
+  "dependency-name":{
     "files": {
-      "name-dependency-dest/scss" : "name-dependency-orig/scss/*",
-      "name-dependency-dest/dist" : "name-dependency-orig/dist/*"
+      "dependency-name-dest/scss" : "dependency-name-orig/scss/*",
+      "dependency-name-dest/dist" : "dependency-name-orig/dist/*"
     }
   }
 }
